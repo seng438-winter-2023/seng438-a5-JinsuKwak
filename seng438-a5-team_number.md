@@ -41,11 +41,12 @@ We then were able to get the MVF graph (Figure 3) and Intensity graph (Figure 4)
 Advantages
 
       -Predicts the growth or improvement of reliability of a system throughout testing
-      -
+      -Therefore it guides the testing process
+          
 
 Disadvantages
 
-      -
+      -Doesn't tell us how to improve the reliability of a system
 
 # Assessment Using Reliability Demonstration Chart 
 
