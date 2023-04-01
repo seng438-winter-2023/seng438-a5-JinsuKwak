@@ -62,4 +62,11 @@ Disadvantages
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
+Some difficulties we encountered was first getting the required software to download on various different operating systems . One person had difficulty in getting the software to download on their Mac. The instructions that were made to download the software were very unclear and most of us were confused for the majority of the time. It was also difficult to understand what exactly we had to do with the failure reports and how to format them differently so that the C-SFRAT software can read the files properly. But after talking around with other peers, we figured out how to convert the word document to be compatible with the software. Another difficulty we encountered was that the report we converted for the software did not work on some people's laptops but it also worked on my other peer's laptops. This created some problems because then we would have to use the other persons laptop and try to get everything done quickly. 
+
+We overcame these challenges by testing all the software and finding one that worked for majority of the group and used their operating systems. By communicating with other peers, we learned quite alot about the software's requirements.
+
+
 # Comments/feedback on the lab itself
+
+Since the assignment contained two parts and we are a group of 4, we decided that it was best that we divide the parts so that each part has two people working on it. For part 1, Maarya Ahmed and Hannah Son was responsible for getting this part done. For part 2, Jinsu Kwak and Jack Li was responsible for getting this part done. 
