@@ -15,9 +15,22 @@
 
 # Assessment Using Reliability Growth Testing 
 
-Used this formula for laplace testing:
+The input data that we used was from Failure Report 4, and it was converted into an excel sheet in order to be used with C-SFRAT.
 
-<img width="262" alt="image" src="https://user-images.githubusercontent.com/56771715/229305597-b57e7568-389d-4855-955d-8790abc8bb13.png">
+From using C-SFRAT, we were able to get the models and their comparison. The columns 'Critic (Mean)' and 'Critic (Median)' were used to rank the models. The models that had Critic (Mean) and Critic (Median) closest to 1.000 were determined to be the models that provided the best fit for the data.
+
+![Screenshot 2023-04-01 130141](https://user-images.githubusercontent.com/77519521/229309483-faf6aeda-40d4-40f7-b0bd-08da877a04eb.jpg)
+*Figure 1. C-SFRAT Model Comparison*
+
+As seen in Figure 2, the models with the best fit were IFRGSB (E), S (None), S(E), DW2 (None), DW2 (F), DW2 (E), DW2 (F, E), DW3 (F), NB2 (F), NB2 (E), TL (None), TL (F), TL (E), and TL (F, E)
+
+![Screenshot 2023-04-01 130811](https://user-images.githubusercontent.com/77519521/229309698-e44513aa-96b7-4ebb-8897-bdfff780d2f6.jpg)
+*Figure 2. Models with the best fit*
+
+To find the range of useful input data, we used Laplace Tests. As seen in Figure 3, the Laplace Test yielded 0 for all data points except for Failure Count 1. Since values between -2 and +2 indicate stable reliability, Failure Counts 2-15 is the range of useful data.
+
+![Screenshot 2023-04-01 125849](https://user-images.githubusercontent.com/77519521/229309374-7a761e3d-bf0f-4251-9e6d-5b5f4ca89ff2.jpg)
+*Figure 3. The input data from Failure Report 4 and the results of the Laplace Test*
 
 
 # Assessment Using Reliability Demonstration Chart 
