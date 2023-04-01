@@ -58,7 +58,7 @@ Disadvantages
 
 # How the team work/effort was divided and managed
 
-# 
+Since the assignment contained two parts and we are a group of 4, we decided that it was best that we divide the parts so that each part has two people working on it. For part 1, Maarya Ahmed and Hannah Son was responsible for getting this part done. For part 2, Jinsu Kwak and Jack Li was responsible for getting this part done. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
@@ -69,4 +69,4 @@ We overcame these challenges by testing all the software and finding one that wo
 
 # Comments/feedback on the lab itself
 
-Since the assignment contained two parts and we are a group of 4, we decided that it was best that we divide the parts so that each part has two people working on it. For part 1, Maarya Ahmed and Hannah Son was responsible for getting this part done. For part 2, Jinsu Kwak and Jack Li was responsible for getting this part done. 
+
