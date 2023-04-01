@@ -69,4 +69,4 @@ We overcame these challenges by testing all the software and finding one that wo
 
 # Comments/feedback on the lab itself
 
-
+This assignment provided an importance of analyzing integration test data using reliability assessment tools. Some comments about this lab is that the instructions about which software to use could have been better since we all did not know what to do and which software is compatible with which operating systems. Another comment is that there could be more instructions on how to use C-SFRAT to generate the graphs that were required. There were also some confusion revolving around how to reformat the word documents given so if there were some instructions on that, that would be great. 
