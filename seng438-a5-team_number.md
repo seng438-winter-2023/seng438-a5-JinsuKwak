@@ -11,7 +11,7 @@
 
 # Introduction
 
-# 
+This assignment's main objective was to conduct an analysis integration test data using relaibility assessment tools. The two ways to assess failure data is by reliability growth testing and reliability assessment using Reliability Demonstration Chart (RDC). The team learned the importance of fialure data testing and how to use the various software that was to be used. In this lab, C-SFRAT was mainly used to test the failure data. This report encompasses all the necessary figures and explanations about the testing done to the failure data. 
 
 # Assessment Using Reliability Growth Testing 
 
