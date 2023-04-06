@@ -51,8 +51,10 @@ Disadvantages
 # Assessment Using Reliability Demonstration Chart 
 MTTFmin:
 ![image](https://user-images.githubusercontent.com/81532489/230513092-379abdcd-21d0-4ff4-9679-35c81e7a85c6.png)
+
 MTTFmin*1/2:
 ![image](https://user-images.githubusercontent.com/81532489/230513209-06a0af81-692d-4882-a72a-e64c61cefd1c.png)
+
 MTTFmin*2:
 ![image](https://user-images.githubusercontent.com/81532489/230513410-19e3cabf-4b32-4ff3-9759-84454030908c.png)
 
