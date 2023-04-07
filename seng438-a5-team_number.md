@@ -36,6 +36,13 @@ We then were able to get the MVF graph (Figure 3) and Intensity graph (Figure 4)
 ![Screenshot 2023-04-01 131643](https://user-images.githubusercontent.com/77519521/229310049-0d37267c-7f1f-4bdc-96e2-d8b62f84e578.jpg)
 *Figure 4. Intensity graph with models with the best fit*
 
+
+![image](https://user-images.githubusercontent.com/81532489/230666477-cb33c5ae-6d2e-4987-a33b-0d146f7846ef.png)
+*Figure 5. Reliability Graph*
+
+## __A discussion on decision making given a target failure rate:__
+To decide the failure intensity target we used the C-SFRAT tool. Using this tool, we determined the target failure rate by diving the number of failures by the amount of time intervals. In this case we had 15/70, which gave us a target failure rate of 0.214. As a result, having a low value for the failure rate would increase the reliability of the data, which we considered to be adequate for this system.
+
 ## Advantages and Disadvantages of Reliability Growth Analysis
 
 __Advantages:__
@@ -101,6 +108,7 @@ Overall, RDC can be a useful tool in assessing system reliability, but it should
 
 
 # Comparison of Results
+In both parts, we used the file Failure Data 4. In part 1, we carried out on the predictions of the reliability of a presented system. Using C-SFRAT and the provided data, we determined the the failure target rate to be 0.214. In part 2 we used the RDC to determine the MTTFmin based on the data we inputted in Observed Failures and modified the Failure Intensity Objective. From this part, we were able to get a target failure rate of 0.166. When comparing the results from part 1 and part 2, the failure target rates are relatively similiar even though the purpose of each technique differed.
 
 # Discussion on Similarity and Differences of the Two Techniques
 __Similarities:__
