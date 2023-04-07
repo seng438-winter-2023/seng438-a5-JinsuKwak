@@ -79,7 +79,7 @@ __Disadvantages:__
 
 
 ## __Explain your evaluation and justification of how you decide the MTTFmin:__
-
+We found the MTTFmin by using trial and error and experimenting with the values on the RDC chart. After adding in the data for the columns: "Cumulative Failure Count" and "Input Event When Observed", we changed the values for Maximum Acceptable Number of Failures and Per number of input events until we got a value which gave us the best fit, based on how closely it resembled those in the lecture slides. We settled on the value of 1/6 = 0.166 for the MTTFmin, which allowed all of the data to fall in the Continue testing and Accept regions of the RDC.
 
 # Advantages and Disadvantages of RDC
 __Advantages:__
