@@ -53,7 +53,7 @@ __Disadvantages:__
 
 # Assessment Using Reliability Demonstration Chart 
 ## __MTTFmin:__
-> **MTTFmin**
+> **MTTFmin:**
 > MTTF that results in the first failure point occurring in the Accept region and the previous failure point located in the Continue Test region
 
           MTTFmin: A/B = 0.00
