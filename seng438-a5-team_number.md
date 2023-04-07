@@ -38,16 +38,18 @@ We then were able to get the MVF graph (Figure 3) and Intensity graph (Figure 4)
 
 ## Advantages and Disadvantages of Reliability Growth Analysis
 
-Advantages
-      -Predicts the growth or improvement of reliability of a system throughout testing
-      -Generated graphs provide insight into any time dependent trends and facilitate examining changes at specific points in time
-      -Therefore it guides the testing process
+__Advantages:__
+
+- Predicts the growth or improvement of reliability of a system throughout testing
+- Generated graphs provide insight into any time dependent trends and facilitate examining changes at specific points in time
+- Therefore it guides the testing process
           
 
-Disadvantages
-      -Creating reliability growth analysis graphs can be tedious and time-consuming
-      -Different prediction models can produce varying results, making it challenging to compare and make informed decisions.
-      -Doesn't tell us how to improve the reliability of a system
+__Disadvantages:__
+
+- Creating reliability growth analysis graphs can be tedious and time-consuming
+- Different prediction models can produce varying results, making it challenging to compare and make informed decisions.
+- Doesn't tell us how to improve the reliability of a system
 
 # Assessment Using Reliability Demonstration Chart 
 MTTFmin:
