@@ -62,6 +62,23 @@ MTTFmin*2:
 ![image](https://user-images.githubusercontent.com/81532489/230513410-19e3cabf-4b32-4ff3-9759-84454030908c.png)
 
 ## Advantages and Disadvantages of RDC
+## Advantages of RDC
+
+- Provides a simple and straightforward way to assess a system's reliability.
+- Generating plots and analyzing data using RDC is quick and easy.
+- RDC is a low-cost method of determining system reliability.
+- Can help identify trends in system reliability over time, making it useful in identifying potential issues early on and making necessary improvements.
+- Can be used to compare the reliability of different systems, making it a useful tool in system design and selection.
+
+## Disadvantages of RDC
+
+- Unable to provide a quantitative number for system reliability, which is crucial for decision-making.
+- MTTF calculation with RDC involves a lot of guesswork, which can be tedious and time-consuming.
+- Relies heavily on the accuracy of the data being collected. If the data is not accurate or is incomplete, the resulting analysis may be misleading.
+- Not suitable for complex systems where there are many failure modes and multiple components contributing to overall system reliability.
+
+Overall, RDC can be a useful tool in assessing system reliability, but it should be used in conjunction with other methods to ensure a comprehensive analysis. It is important to consider the limitations of RDC and use other methods when needed to supplement its analysis.
+
 
 # Comparison of Results
 
