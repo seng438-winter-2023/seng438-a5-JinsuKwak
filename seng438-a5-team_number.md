@@ -86,7 +86,16 @@ Overall, RDC can be a useful tool in assessing system reliability, but it should
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
+__Similarities:__
 
+- Both techniques collect and analyze data to identify trends in system reliability
+- Both techniques are do not require the system to be taken offline
+- Both techniques help to make informed decisions about system reliability
+
+__Differences:__
+- RDC is a low cost and straightforward, Reliability Growth Analysis is more complex and requires more resources
+- RDC may miss certain types of failures, Reliability growth Analysis can account for a wider range of failure factors
+- RDC is better suited for simple systems, Reliability growth Analysis is better suited for complex systems.
 # How the team work/effort was divided and managed
 
 Since the assignment contained two parts and we are a group of 4, we decided that it was best that we divide the parts so that each part has two people working on it. For part 1, Maarya Ahmed and Hannah Son was responsible for getting this part done. For part 2, Jinsu Kwak and Jack Li was responsible for getting this part done. 
