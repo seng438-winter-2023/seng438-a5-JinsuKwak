@@ -56,26 +56,29 @@ __Disadvantages:__
 > **MTTFmin:**
 > MTTF that results in the first failure point occurring in the Accept region and the previous failure point located in the Continue Test region
 
-          MTTFmin: A/B = 0.00
+          MTTFmin: 1/6 = 0.166
 
-![image](https://user-images.githubusercontent.com/81532489/230513092-379abdcd-21d0-4ff4-9679-35c81e7a85c6.png)
+![image](https://user-images.githubusercontent.com/81532489/230562282-52f34a9f-dff8-49b1-ab74-d3c2f941c220.png)
 
 ## __Half MTTFmin:__
 > **We have decreased the acceptable number of failures, 
 >  the reject region in the half MTTF plot should contain more data points for our failures.**
 
-          MTTF: A/B = 0.00
+          MTTF: 0.5/6 = 0.0833
 
-![image](https://user-images.githubusercontent.com/81532489/230513209-06a0af81-692d-4882-a72a-e64c61cefd1c.png)
+![image](https://user-images.githubusercontent.com/81532489/230563771-20027eca-d2f1-40a4-983d-c759bac75e3a.png)
 
 
 ## __Twice MTTFmin:__
 > **We have increased the acceptable number of failures, 
 >  the accept region in the twice MTTF plot should contain more data points for our failures.**
 
-          MTTF: A/B = 0.00
+          MTTF: 2/6 = 0.33
 
-![image](https://user-images.githubusercontent.com/81532489/230513410-19e3cabf-4b32-4ff3-9759-84454030908c.png)
+![image](https://user-images.githubusercontent.com/81532489/230563510-f0cc2202-441e-4aef-a762-4ce2e851a242.png)
+
+
+## __Explain your evaluation and justification of how you decide the MTTFmin:__
 
 
 # Advantages and Disadvantages of RDC
