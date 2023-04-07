@@ -53,23 +53,28 @@ __Disadvantages:__
 
 # Assessment Using Reliability Demonstration Chart 
 __MTTFmin:__
--MTTF: A/B = 0.00
+
+          MTTF: A/B = 0.00
 
 ![image](https://user-images.githubusercontent.com/81532489/230513092-379abdcd-21d0-4ff4-9679-35c81e7a85c6.png)
 
 __Half MTTFmin:__
--MTTF: A/B = 0.00
+
+          MTTF: A/B = 0.00
 
 ![image](https://user-images.githubusercontent.com/81532489/230513209-06a0af81-692d-4882-a72a-e64c61cefd1c.png)
 
--We have decreased the acceptable number of failures, the reject region in the half MTTF plot should contain more data points for our failures
+> **We have decreased the acceptable number of failures, 
+>  the reject region in the half MTTF plot should contain more data points for our failures.**
 
 __Twice MTTFmin:__
--MTTF: A/B = 0.00
+
+          MTTF: A/B = 0.00
 
 ![image](https://user-images.githubusercontent.com/81532489/230513410-19e3cabf-4b32-4ff3-9759-84454030908c.png)
 
--We have increased the acceptable number of failures, the accept region in the twice MTTF plot should contain more data points for our failures.
+> **We have increased the acceptable number of failures, 
+>  the accept region in the twice MTTF plot should contain more data points for our failures.**
 
 ## Advantages and Disadvantages of RDC
 __Advantages:__
