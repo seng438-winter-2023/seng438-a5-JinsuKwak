@@ -48,7 +48,7 @@ __Advantages:__
 __Disadvantages:__
 
 - Creating reliability growth analysis graphs can be tedious and time-consuming
-- Different prediction models can produce varying results, making it challenging to compare and make informed decisions.
+- Different prediction models can produce varying results, making it challenging to compare and make informed decisions
 - Doesn't tell us how to improve the reliability of a system
 
 # Assessment Using Reliability Demonstration Chart 
@@ -81,20 +81,20 @@ __Disadvantages:__
 # Advantages and Disadvantages of RDC
 __Advantages:__
 
-- Provides a simple and straightforward way to assess a system's reliability.
-- Generating plots and analyzing data using RDC is quick and easy.
-- RDC is a low-cost method of determining system reliability.
-- Can help identify trends in system reliability over time, making it useful in identifying potential issues early on and making necessary improvements.
-- Can be used to compare the reliability of different systems, making it a useful tool in system design and selection.
+- Provides a simple and straightforward way to assess a system's reliability
+- Generating plots and analyzing data using RDC is quick and easy
+- RDC is a low-cost method of determining system reliability
+- Can help identify trends in system reliability over time, making it useful in identifying potential issues early on and making necessary improvements
+- Can be used to compare the reliability of different systems, making it a useful tool in system design and selection
 
 __Disadvantages:__
 
-- Unable to provide a quantitative number for system reliability, which is crucial for decision-making.
-- MTTF calculation with RDC involves a lot of guesswork, which can be tedious and time-consuming.
-- Relies heavily on the accuracy of the data being collected. If the data is not accurate or is incomplete, the resulting analysis may be misleading.
-- Not suitable for complex systems where there are many failure modes and multiple components contributing to overall system reliability.
+- Unable to provide a quantitative number for system reliability, which is crucial for decision-making
+- MTTF calculation with RDC involves a lot of guesswork, which can be tedious and time-consuming
+- Relies heavily on the accuracy of the data being collected. If the data is not accurate or is incomplete, the resulting analysis may be misleading
+- Not suitable for complex systems where there are many failure modes and multiple components contributing to overall system reliability
 
-Overall, RDC can be a useful tool in assessing system reliability, but it should be used in conjunction with other methods to ensure a comprehensive analysis. It is important to consider the limitations of RDC and use other methods when needed to supplement its analysis.
+Overall, RDC can be a useful tool in assessing system reliability, but it should be used in conjunction with other methods to ensure a comprehensive analysis. It is important to consider the limitations of RDC and use other methods when needed to supplement its analysis
 
 
 # Comparison of Results
@@ -109,7 +109,7 @@ __Similarities:__
 __Differences:__
 - RDC is a low cost and straightforward, Reliability Growth Analysis is more complex and requires more resources
 - RDC may miss certain types of failures, Reliability growth Analysis can account for a wider range of failure factors
-- RDC is better suited for simple systems, Reliability growth Analysis is better suited for complex systems.
+- RDC is better suited for simple systems, Reliability growth Analysis is better suited for complex systems
 # How the team work/effort was divided and managed
 
 Since the assignment contained two parts and we are a group of 4, we decided that it was best that we divide the parts so that each part has two people working on it. For part 1, Maarya Ahmed and Hannah Son was responsible for getting this part done. For part 2, Jinsu Kwak and Jack Li was responsible for getting this part done. 
